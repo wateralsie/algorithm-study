@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/study-algorithm.iml" filepath="$PROJECT_DIR$/.idea/study-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Backtracking.iml" filepath="$PROJECT_DIR$/.idea/Backtracking.iml" />
     </modules>
   </component>
 </project>
