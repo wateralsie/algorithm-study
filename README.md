@@ -1,1 +1,7 @@
-# study-algorithm
+# algorithm-study
+
+제발제발 너 커밋한거 푸시하기 전에 꼭 `pull` 한번 해줘 제발 
+
+### 중요 
+* 브랜치 꼭!!! 만들고
+* 누구라도 merge 했으면 반드시 `pull` 해주세요!!!!
