@@ -1,53 +1,21 @@
-import re
-import sys
+n = int(input())
+t = []
+p = []
+dp = [0] * (n + 1)
+max_value = 0
 
+for _ in range(n):
+    x, y = map(int, input().split())
+    t.append(x)
+    p.append(y)
 
-def getConsultInfo(days: int):
-    time = []
-    income = []
-    for i in range(days):
-        info = sys.stdin.readline().split()
-        income.append(info.pop())
-        time.append(info.pop())
-    return time, income
+for i in range(n - 1, -1, -1):
+    time = t[i] + i
 
-
-def isAvailable(day, time):
-    if (day > len(time) or (day + int(time[day - 1])) > (len(time) + 1)):
-        return False
+    if time <= n:
+        dp[i] = max(p[i] + dp[time], max_value)
+        max_value = dp[i]
     else:
-        return True
+        dp[i] = max_value
 
-
-def getConsultDays(days: int, time):
-    consultDays = []
-    for _ in range(days):
-        i = 1
-        while (isAvailable(i, time)):
-            index = []
-            index.append(int(i))
-            i += int(time[i - 1])
-        consultDays.append(index)
-
-    return consultDays
-
-
-daysLeft = int(sys.stdin.readline())
-consultTime, income = getConsultInfo(daysLeft)
-print(getConsultDays(daysLeft, consultTime))
-
-
-def getMaximumIncome():
-    case, income = getConsultDays()
-    for i in range(len(case)):
-        each = case[i]
-        total = 0
-        for j in each:
-            total += int(income[j - 1])
-        case[i] = total
-        if (i > 0):
-            if (int(case[i - 1]) <= case[i]):
-                maxIncome = case[i]
-    return maxIncome
-
-# print(getMaximumIncome())
+print(max_value)
