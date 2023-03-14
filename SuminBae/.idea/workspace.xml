@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4b84384-58ee-4659-80c5-43cc4f85d397" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SuminBae.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/#15650.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/#2529.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/.idea/Backtracking.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backtracking/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/#10816.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BruteForce/#14501.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BruteForce/#4673.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BruteForce/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BruteForce/.idea/BruteForce.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BruteForce/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BruteForce/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BruteForce/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BruteForce/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/#1003.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/.idea/DynamicProgramming.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/fibonacci.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/#1041.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/.idea/Greedy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearDataStructure/#10828.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearDataStructure/#15815.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearDataStructure/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearDataStructure/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearDataStructure/.idea/LinearDataStructure.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearDataStructure/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearDataStructure/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearDataStructure/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearDataStructure/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearDataStructure/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearDataStructure/implementation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearDataStructure/implementation/.idea/basic_implementation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearDataStructure/implementation/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearDataStructure/implementation/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearDataStructure/implementation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearDataStructure/implementation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearDataStructure/implementation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearDataStructure/implementation/Deque.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearDataStructure/implementation/ListNode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearDataStructure/implementation/Node.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearDataStructure/implementation/Stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/#17390.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/#2750.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/.idea/Sorting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sorting/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2MiJEQ5Qioy8XDjyxZZPhnplxYq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4b84384-58ee-4659-80c5-43cc4f85d397" name="Changes" comment="" />
+      <created>1678244512135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678244512135</updated>
+      <workItem from="1678244525812" duration="187000" />
+      <workItem from="1678789109286" duration="353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
