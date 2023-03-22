@@ -1,31 +1,28 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
 
 public class Padoban_sequence {
 	
 	public static void main(String[] args) throws IOException {
-		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
-		int testcase = Integer.parseInt(bf.readLine().strip());
-		int n = 0;
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder answer = new StringBuilder();
+		int testcase = Integer.parseInt(br.readLine().strip());
+		int n = 0;
 		
 		for (int i = 0; i < testcase; i++) {
-			n = Integer.parseInt(bf.readLine().strip());
-			ArrayList<Long> wave = new ArrayList<Long>();
+			n = Integer.parseInt(br.readLine().strip());
+			long[] wave = new long[101];
 			
 			// default
-			wave.add(0, 0L);
-			wave.add(1, 1L);  wave.add(2, 1L);  wave.add(3, 1L);
-			wave.add(4, 2L);  wave.add(5, 2L);
+			wave[1] = 1;  wave[2] = 1;  wave[3] = 1;
+			wave[4] = 2;  wave[5] = 2;
 			
 			// padoban(n)
-			for (int j = 6; j <= n; j++) {
-				wave.add(j, wave.get(j-5) + wave.get(j-1));
+			for (int j = 4; j <= 100; j++) {
+				wave[j] = wave[j-2] + wave[j-3];
 			}
-			
-			answer.append(wave.get(n)).append("\n");
+			answer.append(wave[n]).append("\n");
 		}
 		System.out.println(answer);
 	}
